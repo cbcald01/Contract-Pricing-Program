@@ -12,7 +12,7 @@ Developed a Windows Forms application that calculates consultant contract pricin
 - Validates required selections and contract length before calculating.
 
 ## Skills Demonstrated
-C# · Windows Forms · Arrays · Nested Loops · Conditional Logic · Input Validation
+C# · Windows Forms
 
 ## Project Link
 [View Contract Pricing Program on GitHub](https://github.com/cbcald01/Contract-Pricing-Program)
