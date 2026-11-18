@@ -16,3 +16,4 @@ C# · Windows Forms
 
 ## Project Link
 [View Contract Pricing Program on GitHub](https://github.com/cbcald01/Contract-Pricing-Program)
+<img width="582" height="542" alt="image" src="https://github.com/user-attachments/assets/740a673a-1993-44b6-8e43-d285619b7ffb" />
